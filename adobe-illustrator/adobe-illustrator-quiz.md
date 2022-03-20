@@ -27,7 +27,7 @@
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
 
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -37,7 +37,7 @@
 `A map of California has a light beige main color and a small dark shadow.`
 
 - [ ] 3D Extrude & Bevel
-- [ ] Offset Path
+- [x] Offset Path
 - [ ] 3D Rotate
 - [ ] 3D Revolve
 
@@ -53,7 +53,7 @@
 `A map of Southern California includes many info circles shaded in light blue.`
 
 - [ ] Recolor Artwork
-- [ ] Select > Same > Appearance
+- [x] Select > Same > Appearance
 - [ ] Edit Colors
 - [ ] Live Paint
 
@@ -105,7 +105,7 @@
 
 #### Q14. What is the fastest and most efficient way to ensure that all the objects shown in the figure below are placed precisely next to one another with no space between them?
 
-- [ ] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
+- [x] Specify a key object, then use the Horizontal Distribute Space command in the Align panel with a Spacing value of 0
 - [ ] Turn on Smart Guides and drag each object until it snaps to the one next to it.
 - [ ] Choose the Move command and in the dialog box set the Distance value to 0.
 - [ ] Select the objects with the Selection tool, then drag from the side of the selection bounding box until the objects snap together.
@@ -133,7 +133,7 @@
 
 #### Q18. How can you ensure that proper nouns are not hyphenated in the document you're working on?
 
-- [ ] Turn off Hyphenate Capitalized Words in the Paragraph panel.
+- [x] Turn off Hyphenate Capitalized Words in the Paragraph panel.
 - [ ] Select Justify All Lines in the Paragraph panel.
 - [ ] Decrease the Word Spacing in the justification options.
 - [ ] Increase the Hyphenation Zone value in the Paragraph panel so it is greater than the point size of the text.
@@ -149,7 +149,7 @@
 
 - [ ] the Smooth tool
 - [ ] the Shape Builder tool
-- [ ] the Pencil tool
+- [x] the Pencil tool
 - [ ] the Shaper tool
 
 #### Q21. When using the Live Paint Bucket tool to fill artwork with colors, you are unable to fill some areas due to the size of gaps between paths. What can you do in the Gap Options dialog box to fix this problem?
@@ -249,7 +249,7 @@
 #### Q33. If you are looking for a tool in the toolbar and it is not visible, what should you do?
 
 - [ ] With nothing selected, click the More Tools button in the Properties panel.
-- [ ] Click the ellipsis at the bottom of the toolbar.
+- [x] Click the ellipsis at the bottom of the toolbar.
 - [ ] Turn on the tool in the preferences.
 - [ ] In the Window menu, click Window > Tools.
 
@@ -265,7 +265,7 @@
 - [ ] Absolute Colorimetric
 - [ ] Perceptual
 - [ ] Saturation
-- [ ] Relative Colorimetric
+- [x] Relative Colorimetric
 
 #### Q36. Why would you use change the Expand Mesh value when using the Puppet Warp tool?
 
@@ -351,7 +351,7 @@
 #### Q47. Why would you choose Enable Guides for 9-slice scaling when creating a symbol?
 
 - [ ] to allow portions of the symbol to be exported as separate graphics
-- [ ] to ensure that each instance of the symbol always maintains its original proportions when scaled
+- [x] to ensure that each instance of the symbol always maintains its original proportions when scaled
 - [ ] to include custom guides with the symbol so each instance is placed in the same position relative to the artboard
 - [ ] to allow instances of the symbol to be scaled without distorting the corners
 
@@ -502,14 +502,14 @@
 #### Q68. Which statement is true about working in Isolation mode?
 
 - [ ] You can print and export individual objects by isolating them first.
-- [ ] All non-isolated objects cannot be selected or edited.
+- [x] All non-isolated objects cannot be selected or edited.
 - [ ] You cannot isolate more than one object at a time.
 - [ ] You can Shift-click non-isolated objects to make them editable.
 
 #### Q69. When saving a file in Adobe Illustrator (AI) format, which setting is essential to ensure that someone using Acrobat Reader can open and view the file?
 
 - [ ] Preserve Paths
-- [ ] Create PDF Compatible File
+- [x] Create PDF Compatible File
 - [ ] Include Linked Files
 - [ ] Use Compression
 
